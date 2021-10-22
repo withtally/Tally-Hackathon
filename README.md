@@ -1,2 +1,2 @@
-# Tally-Hackathon
+# Aragon Tally-Hackathon
 Tally &amp; Aragon Hackathon collaboration
