@@ -28,27 +28,27 @@
 
 ### 암호화폐 및 이더리움
 
-- Binance Academy: 블록체인 기술 개요.
-- Ethereum Foundation learn page: 이더리움 재단이 선별한 교육 자료 목록.
-- EthHub docs: 이더리움 학습을 위한 커뮤니티 리소스.
-- district0x Ethereum docs: 이더리움 작동 방식에 대한 사용자 친화적인 개요.
+- [Binance Academy](https://academy.binance.com/en/articles/how-does-blockchain-work): 블록체인 기술 개요.
+- [Ethereum Foundation learn page](https://ethereum.org/en/learn/): 이더리움 재단이 선별한 교육 자료 목록.
+- [EthHub docs](https://docs.ethhub.io): 이더리움 학습을 위한 커뮤니티 리소스.
+- [district0x Ethereum docs](https://education.district0x.io/general-topics/understanding-ethereum/): 이더리움 작동 방식에 대한 사용자 친화적인 개요.
 
 ### 커뮤니티 리소스 및 자습서
 
-- DefiPulse: 주요 프로젝트 리더보드 및 정보 리소스.
-- DefiPrime: 탈중앙화 금융에 대한 깊이 있는 정보.
-- Defi Dad: 사용자 중심 제품 가이드 및 자습서.
-- Defi Rate: Defi 프로젝트 및 이벤트 보도자료.
-- Gabriel Haynes Youtube: 인터뷰, 프로젝트에 대한 심층 분석 및 교육 자료.
+- [DefiPulse](https://defipulse.com/): 주요 프로젝트 리더보드 및 정보 리소스.
+- [DefiPrime](https://defiprime.com/): 탈중앙화 금융에 대한 깊이 있는 정보.
+- [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg): 사용자 중심 제품 가이드 및 자습서.
+- [Defi Rate](https://defirate.com/): Defi 프로젝트 및 이벤트 보도자료.
+- [Gabriel Haynes Youtube](https://www.youtube.com/gabrielhaines): 인터뷰, 프로젝트에 대한 심층 분석 및 교육 자료.
 
 ### 뉴스레터 및 블로그
 
-- Bankless: 탈중앙화 금융에 중점을 둔 콘텐츠 플랫폼.
-- The Defiant: Defi 중심 뉴스레터 및 인터뷰 시리즈.
-- EthHub newsletter: 기본 계층 이더리움 변화에 초점을 맞춘 커버리지.
-- Our Network: 온체인 데이터 및 분석에 중점을 둔 커뮤니티 뉴스레터.
-- Today in Defi: 탈중앙화 금융의 일일 커버리지.
-- Week in Ethereum News: 이더리움 생태계의 간결한 모집.
-- Yield TV: 데피 아빠와 Zapper.fi가 주최하는 데피 유명인들과의 인터뷰 모음입니다.
+- [Bankless](https://bankless.substack.com/): 탈중앙화 금융에 중점을 둔 콘텐츠 플랫폼.
+- [The Defiant](https://thedefiant.substack.com/): Defi 중심 뉴스레터 및 인터뷰 시리즈.
+- [EthHub newsletter](https://ethhub.substack.com/): 기본 계층 이더리움 변화에 초점을 맞춘 커버리지.
+- [Our Network](https://ournetwork.substack.com/): 온체인 데이터 및 분석에 중점을 둔 커뮤니티 뉴스레터.
+- [Today in Defi](https://todayindefi.substack.com/): 탈중앙화 금융의 일일 커버리지.
+- [Week in Ethereum News](https://weekinethereumnews.com/): 이더리움 생태계의 간결한 모집.
+- [Yield TV](https://www.youtube.com/channel/UCYq3ZxBx7P2ckJyWVDC597g): 데피 아빠와 Zapper.fi가 주최하는 데피 유명인들과의 인터뷰 모음입니다.
 
 가장 좋아하는 리소스가 누락되었습니까?저희에게 알려주세요.
