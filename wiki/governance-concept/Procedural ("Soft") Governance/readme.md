@@ -18,8 +18,8 @@ MakerDAO는 주간 투표 번들을 선별하고 메이커 개선 제안을 촉�
 
 Uniswap은 초기 개념부터 구현에 이르기까지 거버넌스 제안서를 작성하기 위한 제안 프로세스를 발표했습니다.1,000만 명이 넘는 UNI 투표권을 가진 사용자는 제안서를 제출할 수 있지만, Uniswap의 소프트 거버넌스 절차에는 연쇄 투표를 요청하기 전에 합의를 구축하기위한 몇 가지 예비 투표 및 토론 단계가 포함됩니다.
 
-## Resources
+## 리소스
 
-- [MakerDAO MIP Process Overview](https://forum.makerdao.com/t/mip0-the-maker-improvement-proposal-framework/1902)
-- [MakerDAO Weekly Governance Cycle](https://forum.makerdao.com/t/mip16-the-weekly-governance-cycle/3008)
-- [Uniswap Suggested Governance Process](https://gov.uniswap.org/t/governance-process/7732)
+- [MakerDAO 메이커 개선 제안 프로세스 개요](https://forum.makerdao.com/t/mip0-the-maker-improvement-proposal-framework/1902)
+- [MakerDAO 주간 거버넌스 주기](https://forum.makerdao.com/t/mip16-the-weekly-governance-cycle/3008)
+- [Uniswap 제안된 거버넌스 프로세스](https://gov.uniswap.org/t/governance-process/7732)
