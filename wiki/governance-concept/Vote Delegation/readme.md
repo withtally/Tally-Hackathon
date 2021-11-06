@@ -24,6 +24,6 @@
 
 ## 리소스
 
-[Compound Governance Announcement](https://medium.com/compound-finance/compound-governance-5531f524cf68)
-[KyberDAO Voting Overview](https://blog.kyber.network/kyberdao-staking-and-voting-overview-70be71ee58f0)
-[MakerDAO Governance Upgrade Specification](https://forum.makerdao.com/t/mip26-dssgov-governance-contract-redesign/4589)
+[Compound  거버넌스 발표](https://medium.com/compound-finance/compound-governance-5531f524cf68)
+[KyberDAO 투표 개요](https://blog.kyber.network/kyberdao-staking-and-voting-overview-70be71ee58f0)
+[MakerDAO 거버넌스 업그레이드 사양](https://forum.makerdao.com/t/mip26-dssgov-governance-contract-redesign/4589)
