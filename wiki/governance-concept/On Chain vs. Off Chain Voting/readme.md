@@ -37,5 +37,5 @@
 ## 리소스
 
 - [Snapshot Labs Github](https://github.com/balancer-labs/snapshot)
-- [Aragon blog - Snapshot partnership announcements](https://aragon.org/blog/balancer-snapshot)
-- [Aragon blog - Snapshot and optimistic voting](https://aragon.org/blog/snapshot)
+- [Aragon blog - 스냅샷 파트너십 발표](https://aragon.org/blog/balancer-snapshot)
+- [Aragon blog - 스냅샷 및 낙관적 투표](https://aragon.org/blog/snapshot)
