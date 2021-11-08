@@ -7,7 +7,7 @@
 
 ## 프로토콜
 
-- Curve Finance---
+- Curve Finance
 - mStable
 
 ## 개요
