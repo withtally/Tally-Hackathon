@@ -2,7 +2,7 @@
 
 ## 기본 정보
 
-토큰: [RAD](https://www.coingecko.com/en/coins/radicle)
+토큰: [RAD](https://www.coingecko.com/en/coins/radicle)  
 거버넌스 유형: Compound Governor Alpha
 스냅샷 지원: 비바인딩 폴링 [https://snapshot.org/#/gov.radicle.eth](https://snapshot.org/#/gov.radicle.eth)
 섹터: 협업 도구
