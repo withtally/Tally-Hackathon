@@ -19,10 +19,10 @@ PoolTogether 는 상금 연계 저축 (제로 손실 복권이라고도 함) 을
 
 ## 링크 및 리소스
 
-채팅: [https://discord.com/invite/hxPhPDW](https://discord.com/invite/hxPhPDW)
-포럼: [https://gov.pooltogether.com/](https://gov.pooltogether.com/)
-Github: [https://github.com/pooltogether](https://github.com/pooltogether)
-웹 사이트: [https://pooltogether.com/](https://pooltogether.com/)
-Twitter: [https://twitter.com/PoolTogether](https://twitter.com/PoolTogether_)
-블로그: [https://medium.com/pooltogether](https://medium.com/pooltogether)
-설명서: [https://docs.pooltogether.com/](https://docs.pooltogether.com/)
+- 채팅: [https://discord.com/invite/hxPhPDW](https://discord.com/invite/hxPhPDW)
+- 포럼: [https://gov.pooltogether.com/](https://gov.pooltogether.com/)
+- Github: [https://github.com/pooltogether](https://github.com/pooltogether)
+- 웹 사이트: [https://pooltogether.com/](https://pooltogether.com/)
+- Twitter: [https://twitter.com/PoolTogether](https://twitter.com/PoolTogether_)
+- 블로그: [https://medium.com/pooltogether](https://medium.com/pooltogether)
+- 설명서: [https://docs.pooltogether.com/](https://docs.pooltogether.com/)
