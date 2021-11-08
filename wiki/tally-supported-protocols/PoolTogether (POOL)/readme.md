@@ -2,10 +2,10 @@
 
 ## 기본 정보
 
-토큰: [POOL](https://www.coingecko.com/en/coins/pooltogether)
-거버넌스 유형: Compound Governor Alpha
-스냅샷 지원: 비바인딩 폴링 [https://snapshot.org/#/pooltogether.eth](https://snapshot.org/#/pooltogether.eth)
-섹터: 게이밍
+토큰: [POOL](https://www.coingecko.com/en/coins/pooltogether)  
+거버넌스 유형: Compound Governor Alpha  
+스냅샷 지원: 비바인딩 폴링 [https://snapshot.org/#/pooltogether.eth](https://snapshot.org/#/pooltogether.eth)  
+섹터: 게이밍  
 
 ## 프로토콜 개요
 
