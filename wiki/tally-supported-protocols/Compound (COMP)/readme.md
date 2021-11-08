@@ -2,10 +2,10 @@
 
 ## 기본 정보
 
-토큰: [COMP](https://www.coingecko.com/en/coins/compound)
-거버넌스 유형: Compound Governor Bravo
-스냅샷 지원: 아니요
-섹터: 대출
+토큰: [COMP](https://www.coingecko.com/en/coins/compound)  
+거버넌스 유형: Compound Governor Bravo  
+스냅샷 지원: 아니요  
+섹터: 대출  
 
 ## 프로토콜 개요
 

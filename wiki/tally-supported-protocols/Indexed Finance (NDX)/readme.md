@@ -2,10 +2,10 @@
 
 ## 기본 정보
 
-토큰: [NDX](https://www.coingecko.com/en/coins/indexed-finance)
-거버넌스 유형: Compound Governor Alpha
-스냅샷 지원: 바인딩되지 않은 폴링 [https://gov.indexed.finance/#/](https://gov.indexed.finance/#/)
-섹터: 자산 관리
+토큰: [NDX](https://www.coingecko.com/en/coins/indexed-finance)  
+거버넌스 유형: Compound Governor Alpha  
+스냅샷 지원: 바인딩되지 않은 폴링 [https://gov.indexed.finance/#/](https://gov.indexed.finance/#/)  
+섹터: 자산 관리  
 
 ## 프로토콜 개요
 
