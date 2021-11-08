@@ -2,7 +2,7 @@
 
 ## 기본 정보
 
-토큰: UNI
+토큰: [UNI](https://www.coingecko.com/en/coins/uniswap)
 거버넌스 유형: Compound Governor Alpha
 스냅샷 지원: 바인딩되지 않은 폴링 [https://snapshot.org/#/uniswap](https://snapshot.org/#/uniswap)
 섹터: 거래소
