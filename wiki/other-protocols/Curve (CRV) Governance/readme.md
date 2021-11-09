@@ -1,7 +1,5 @@
 # Curve (CRV) Governance
 
-![https://cdn.document360.io/5b297d02-8aa1-4075-baa1-d431b2292be1/Images/Documentation/image%285%29.png](https://cdn.document360.io/5b297d02-8aa1-4075-baa1-d431b2292be1/Images/Documentation/image%285%29.png)
-
 ## 주요 사실
 
 - CRV 토큰을 사용한 [체인 투표]('../../../../governance-concept/On%20Chain%20vs.%20Off%20Chain%20Voting/readme.md)

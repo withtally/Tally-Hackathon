@@ -1,7 +1,5 @@
 # Balancer (BAL) Governance
 
-![https://cdn.document360.io/5b297d02-8aa1-4075-baa1-d431b2292be1/Images/Documentation/image%2817%29.png](https://cdn.document360.io/5b297d02-8aa1-4075-baa1-d431b2292be1/Images/Documentation/image%2817%29.png)
-
 ## 주요 사실
 
 - BAL 토큰을 사용한 [오프 체인 투표](../../governance-concept/On%20Chain%20vs.%20Off%20Chain%20Voting/readme.md)
